@@ -37,3 +37,6 @@ Attributes in table
     - *Data Type*: String (URL)
     - *Description*: A link or URL that leads to more detailed information about the IPL match.
     - *Example*: [https://www.iplt20.com/matches/results/2023/1](https://www.iplt20.com/match/2008/10058)
+
+**Certificate:**
+[Link](https://certs.masaischool.com/certificate/cw_b32-ft30-129)
